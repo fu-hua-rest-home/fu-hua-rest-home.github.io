@@ -780,6 +780,12 @@ section,
   align-items: center;
 }
 
+.about .content .sal ul li {
+  margin-bottom: 0px;
+  display: flex;
+  align-items: center;
+}
+
 .about .content ul strong {
   margin-right: 10px;
 }
